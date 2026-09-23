@@ -13,6 +13,7 @@ that reference needs updating.
 | Brand name in copy | HomeEstimator.ai |
 | URL | https://www.homeestimator.ai/ |
 | Logo | gold house + 4-point sparkle, "Home Estimator" beneath |
+| Primary CTA | Book a demo |
 
 ## Colors
 
@@ -39,8 +40,10 @@ The `brand-guard` skill's HomeEstimator.ai reference is out of date on three poi
    (differs only in blue, 76 vs 110); `#F9E076` is not in the kit at all.
 3. **Type.** Reference specifies Playfair Display headlines + DM Sans body for the
    HeyGen "Velvet Standard" style. The kit specifies Inter.
+4. **Primary CTA.** Reference says the 3-day money-back guarantee. The owner has
+   since confirmed the primary CTA is **Book a demo**. The guarantee remains an
+   approved proof point, but it is not the call to action.
 
 Rules in that reference NOT contradicted here, and still in force:
-no "free" language; logo bottom-left and blended on every creative; primary CTA is
-the 3-day money-back guarantee; rotate proof points; never framed as a home-value
-or AVM tool; never connected to WA Construct.
+no "free" language; logo bottom-left and blended on every creative; rotate proof
+points; never framed as a home-value or AVM tool; never connected to WA Construct.
